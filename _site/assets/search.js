@@ -1,1 +1,1 @@
-window.TEXT_SEARCH_DATA={'posts':[{'title':"第一篇",'url':"/2019/06/23/header-image.html"}]};
+window.TEXT_SEARCH_DATA={'posts':[{'title':"第一篇",'url':"/2019/06/23/header-image.html"},{'title':"找个好方法给豆豆讲故事",'url':"/2019/06/25/%E8%8F%9C%E5%B8%82%E5%9C%BA%E5%88%B0%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA.html"}]};

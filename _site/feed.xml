@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-23T23:02:51+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">wukong1989</title><subtitle>Quantitative Finance, Machine Learning, Mathematics, Finance, History, Economics...
-</subtitle><author><name>Chengzhe Yan</name></author><entry><title type="html">第一篇</title><link href="http://localhost:4000/2019/06/23/header-image.html" rel="alternate" type="text/html" title="第一篇" /><published>2019-06-23T00:00:00+08:00</published><updated>2019-06-23T00:00:00+08:00</updated><id>http://localhost:4000/2019/06/23/header-image</id><content type="html" xml:base="http://localhost:4000/2019/06/23/header-image.html">&lt;p&gt;这基本上是我正儿八经写的第一个博客。一周两篇吧，如果工作有想写的，估计会多点。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-25T22:51:39+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">wukong1989</title><subtitle>Quantitative Finance, Machine Learning, Mathematics, Finance, History, Economics...
+</subtitle><author><name>Chengzhe Yan</name></author><entry><title type="html">找个好方法给豆豆讲故事</title><link href="http://localhost:4000/2019/06/25/%E8%8F%9C%E5%B8%82%E5%9C%BA%E5%88%B0%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA.html" rel="alternate" type="text/html" title="找个好方法给豆豆讲故事" /><published>2019-06-25T00:00:00+08:00</published><updated>2019-06-25T00:00:00+08:00</updated><id>http://localhost:4000/2019/06/25/%E8%8F%9C%E5%B8%82%E5%9C%BA%E5%88%B0%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA</id><content type="html" xml:base="http://localhost:4000/2019/06/25/%E8%8F%9C%E5%B8%82%E5%9C%BA%E5%88%B0%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA.html">&lt;p&gt;我一直觉得，金融的问题，无论多复杂，都可以从菜市场之中说明白，讨价还价，供需，生产要素的分配，毕竟食品市场从供给开始到最终上餐桌，是一个技术和市场高度结合的地方，虽然土一点。&lt;/p&gt;
+
+&lt;h1 id=&quot;从菜市场说起&quot;&gt;从菜市场说起&lt;/h1&gt;
+&lt;p&gt;这个系列故事里的主人公包括：&lt;/p&gt;
+
+&lt;p&gt;目的是给豆豆讲讲金融市场的几个组成部分：&lt;/p&gt;
+
+&lt;h2 id=&quot;股票市场&quot;&gt;股票市场&lt;/h2&gt;
+
+&lt;h2 id=&quot;债券市场&quot;&gt;债券市场&lt;/h2&gt;
+
+&lt;h2 id=&quot;金融机构&quot;&gt;金融机构&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;银行&lt;/li&gt;
+  &lt;li&gt;券商&lt;/li&gt;
+  &lt;li&gt;基金&lt;/li&gt;
+  &lt;li&gt;保险&lt;/li&gt;
+  &lt;li&gt;资管&lt;/li&gt;
+  &lt;li&gt;中国式信托&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;政府监管&quot;&gt;政府监管&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;监管体系和竞争&lt;/li&gt;
+  &lt;li&gt;分业监管和混业监管&lt;/li&gt;
+  &lt;li&gt;中国监管体系&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;央行信用利率利差&quot;&gt;央行、信用、利率、利差&lt;/h2&gt;</content><author><name>Chengzhe Yan</name></author><category term="赵局长和小王那点事" /><summary type="html">我一直觉得，金融的问题，无论多复杂，都可以从菜市场之中说明白，讨价还价，供需，生产要素的分配，毕竟食品市场从供给开始到最终上餐桌，是一个技术和市场高度结合的地方，虽然土一点。 从菜市场说起 这个系列故事里的主人公包括： 目的是给豆豆讲讲金融市场的几个组成部分： 股票市场 债券市场 金融机构 银行 券商 基金 保险 资管 中国式信托 政府监管 监管体系和竞争 分业监管和混业监管 中国监管体系 央行、信用、利率、利差</summary></entry><entry><title type="html">第一篇</title><link href="http://localhost:4000/2019/06/23/header-image.html" rel="alternate" type="text/html" title="第一篇" /><published>2019-06-23T00:00:00+08:00</published><updated>2019-06-23T00:00:00+08:00</updated><id>http://localhost:4000/2019/06/23/header-image</id><content type="html" xml:base="http://localhost:4000/2019/06/23/header-image.html">&lt;p&gt;这基本上是我正儿八经写的第一个博客。一周两篇吧，如果工作有想写的，估计会多点。&lt;/p&gt;
 
 &lt;!--more--&gt;</content><author><name>Chengzhe Yan</name></author><category term="闲聊" /><summary type="html">这基本上是我正儿八经写的第一个博客。一周两篇吧，如果工作有想写的，估计会多点。</summary></entry></feed>
